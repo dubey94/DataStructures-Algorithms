@@ -19,7 +19,7 @@ Codechef -> https://www.codechef.com/users/dubeyproton392
 
 I am Kumar Dhananjay Dubey, currently working in SAP LABS.
 I have graduated from Jadavpur University with major in Information Technology in the year 2016.
-Competitive Programming is my hobby
+Competitive Programming is my hobby,
 I love to explore and learn new algorithms and programming techniques.
 I like teaching, and hence launched my YouTube channel recently.
 
